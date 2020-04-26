@@ -1,3 +1,5 @@
+https://medium.com/@preeti.amin/dog-breed-image-classification-aeb6fd273369
+
 ## Introduction
 An image classification deep learning model was built to classify 133 differnt dog breeds.
 
