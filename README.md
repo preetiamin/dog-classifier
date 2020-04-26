@@ -11,15 +11,18 @@ The project was completed as part of Udacity's Capstone for Data Scientist nanod
 ## Data Overview
 
 There are a total of 8351 images in the dogs data set, 6680 were used for training, 835 for validation and 836 for testing. Additionally, 12 more images obtained from the web were tested on the algorithm.
-![Test Image 1](Class_Hist.png)
+![Test Image 1](Picture1.jpg)
 
 ## Methods Used
 
-#### Keras model from scratch
+Keras model from scratch
+![Test Image 2](Picture2.jpg)
 
-#### Keras model utilizing VGG16 as the base
+Keras model utilizing VGG16 as the base
+![Test Image 3](Picture3.jpg)
 
-#### Keras model utilizing Resnet50 as the base
+Keras model utilizing Resnet50 as the base
+![Test Image 4](Picture4.jpg)
 
 ## Results
 
