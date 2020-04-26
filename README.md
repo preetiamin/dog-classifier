@@ -4,9 +4,12 @@ An image classification deep learning model was built to classify 133 differnt d
 ## Project Motivation
 The project was completed as part of Udacity's Capstone for Data Scientist nanodegree program. The purpose of the project was to gain understanding in Image Classification algortithms using deep learning.
 
+## Libraries
+tensorflow, keras, numpy, pandas, matplotlib, scipy, glob, sklearn, cv2
+
 ## Files
 
-- run.py: python/flask script to run the webpage hosting the model
+- dog_app.ipynb: jupyter notebook containing the code
 
 ## Data Overview
 
@@ -16,12 +19,15 @@ There are a total of 8351 images in the dogs data set, 6680 were used for traini
 ## Methods Used
 
 Keras model from scratch
+
 ![Test Image 2](Picture2.jpg)
 
 Keras model utilizing VGG16 as the base
+
 ![Test Image 3](Picture3.jpg)
 
 Keras model utilizing Resnet50 as the base
+
 ![Test Image 4](Picture4.jpg)
 
 ## Results
@@ -33,6 +39,7 @@ Keras model utilizing VGG16 as the base: 41%
 Keras model utilizing Resnet50 as the base: 82%
 
 Below are the prediction results for images obtained from the web:
+
 ![Test Image 5](Picture5.jpg)
 
 ## Conclusion
