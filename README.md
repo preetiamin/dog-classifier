@@ -32,6 +32,9 @@ Keras model utilizing VGG16 as the base: 41%
 
 Keras model utilizing Resnet50 as the base: 82%
 
+Below are the prediction results for images obtained from the web:
+![Test Image 5](Picture5.jpg)
+
 ## Conclusion
 
 Overall, it was clear that it was challenging to achieve a high accuracy with a model from scratch. Using a pre-trained model yields much better results in terms of accuracy while reducing the time to train a model significantly.
